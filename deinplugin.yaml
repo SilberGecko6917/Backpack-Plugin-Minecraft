@@ -1,10 +1,10 @@
-specVersion: 1
-type: plugin
-name: BackPack-Plugin
-authors:
+specVersion*: 1
+type*: plugin
+name*: BackPack-Plugin
+authors*:
   - SilberGecko6917
 supportedPlatforms: spigot
 supportedGameVersions*: ^1.19
-category: misc
-introduction: Ein einfaches Minecraft Plugin, das mit einem Command ein Backpack erstellt!
-description: Dies ist mein erster Versuch eines Minecraft Plugins wo man ein Backpack erstellen kann!
+category*: misc
+introduction*: Ein einfaches Minecraft Plugin, das mit einem Command ein Backpack erstellt!
+description*: Dies ist mein erster Versuch eines Minecraft Plugins wo man ein Backpack erstellen kann!
