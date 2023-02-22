@@ -8,3 +8,35 @@ supportedGameVersions*: ^1.19
 category*: misc
 introduction*: Ein einfaches Minecraft Plugin, das mit einem Command ein Backpack erstellt!
 description*: Dies ist mein erster Versuch eines Minecraft Plugins wo man ein Backpack erstellen kann!
+
+specVersion: 1
+type: plugin
+name: Backpack-Plugin
+authors:
+  - SilberGecko6917
+supportedGameVersions: ^1.19
+category: misc
+introduction:
+  - de: Ein einfaches Minecraft Plugin, das mit einem Command ein Backpack erstellt!
+  - en: A simple Minecraft plugin that creates a backpack with one command!
+description:
+  - de: |
+      # Überblick
+      Dies ist mein erster Versuch eines Minecraft Plugins wo man ein Backpack erstellen kann!
+      # Nutzung
+      Um das Plugin zu nutzen musst du einfach nur den Befehl /backpack (oder /bp) in den chat eingeben und du erhälst ein nur für dich sichtbares Invetar
+  - en: |
+      # Overview
+      This is my first attempt at a Minecraft plugin where you can create a backpack!
+      # Usage
+      To use the plugin you just have to enter the command /backpack (or /bp) in the chat and you will get an inventory only visible to you
+installation:
+  de: |
+    - Herunterladen der Plugin-Datei
+    - Ablegen der Datei im Plugins-Ordner
+    - Server neustarten
+  en: |
+    - Download the plugin-file
+    - Put the file into your plugins-folder
+    - Restart your server
+icon: https://cdn.discordapp.com/attachments/863166310845513758/1078022502925750362/unnamed.png
