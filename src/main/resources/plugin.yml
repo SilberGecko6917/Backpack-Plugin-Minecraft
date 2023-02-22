@@ -1,0 +1,9 @@
+name: Backpack
+version: '${project.version}'
+main: de.silbergecko.Main
+api-version: 1.19
+
+commands:
+  backpack:
+    aliases:
+      - bp
